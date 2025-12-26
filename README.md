@@ -2,15 +2,13 @@
 
 # Cześć, jestem Jędrzej! 👋
 
-### Student Informatyki | Pasjonat Backend Developmentu
+### Student Informatyki | Pasjonat Web Developmentu
 
 ---
 
 **O mnie:**
 🎓 Studiuję Informatykę i szukam stażu w branży IT.
-🌱 Obecnie rozwijam się w ekosystemie **Java & Spring Boot**.
-💻 Lubię czysty kod i praktyczne rozwiązania problemów.
-⚡ Ciekawostka: Uwielbiam rozwiązywać zagadki logiczne.
+🌱 Obecnie rozwijam się w ekosystemie Python Flask oraz React.
 
 ---
 
