@@ -32,12 +32,19 @@
 
 ---
 
-### 📊 Statystyki GitHub
+### 🚀 Obecnie się uczę
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=JedrzejMikolajczak&show_icons=true&theme=tokyonight&hide_border=true&locale=pl" alt="Jędrzej's Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JedrzejMikolajczak&layout=compact&theme=tokyonight&hide_border=true&locale=pl" alt="Top Langs" height="180" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript_(Advanced)-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_System_Prog.-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
+
+> ⚛️ **Frontend:** Wchodzę w zaawansowane aspekty JavaScript i budowę aplikacji w React.
+>
+> 🎓 **Studia:** Poznaje podstawy programowania systemowego i współbieżnego w języku C (środowisko Linux).
 
 ---
 
