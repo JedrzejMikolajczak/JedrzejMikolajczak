@@ -12,6 +12,16 @@
 
 ---
 
+### 🎓 Edukacja i Status
+
+- 🏫 **Uczelnia:** Politechnika Poznańska
+- 📚 **Kierunek:** Informatyka (Studia Inżynierskie)
+- 📍 **Lokalizacja:** Poznań, Polska
+- 💼 **Szukam:** Stażu / Praktyk
+- 🗣️ **Języki:** Polski (Ojczysty), Angielski (B2), Niemiecki (A2)
+
+---
+
 ### 🛠️ Technologie i Narzędzia
 
 <p align="center">
