@@ -63,13 +63,20 @@ Te aplikacje napisałem samodzielnie, aby zrozumieć działanie kodu i logikę p
 | **🌐 Projekt-Strona** | Klasyczna strona internetowa | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Projekt-Strona) |
 | **👤 Portfolio** | Moja strona wizytówka | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Portfolio) |
 
-#### 🤖 AI Programming (Wspomagane przez AI)
+#### 🤖 AI Programming
 Projekty, w których wykorzystywałem modele AI do generowania kodu, testowania promptów i szybkiego prototypowania.
 
 | Projekt | Opis | Link do repozytorium |
 | :--- | :--- | :---: |
 | **🧙‍♂️ WizCraft** | Projekt eksperymentalny z użyciem AI | [Zobacz Kod](https://github.com/JedrzejMikolajczak/WizCraft) |
 | **🛒 sklep-strona** | Prototyp sklepu internetowego | [Zobacz Kod](https://github.com/JedrzejMikolajczak/sklep-strona) |
+
+#### 👥 Projekty Grupowe (Teamwork)
+Projekty realizowane w zespole. Tutaj uczyłem się współpracy, podziału zadań oraz rozwiązywania konfliktów w systemie kontroli wersji (Git Flow).
+
+| Projekt | Opis | Link do repozytorium |
+| :--- | :--- | :---: |
+| **👻 Pac-Man** | Zespołowa implementacja kultowej gry zręcznościowej | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Pac-Man) |
 
 ### 📫 Kontakt
 
