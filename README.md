@@ -67,19 +67,21 @@ Te aplikacje napisałem samodzielnie, aby zrozumieć działanie kodu i logikę p
 
 | Projekt | Opis / Kategoria | Link do repozytorium |
 | :--- | :--- | :---: |
-| **🔐 Password Generator** | Narzędzie do generowania bezpiecznych haseł | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Password-Generator) |
-| **🃏 BlackJack** | Implementacja klasycznej gry karcianej | [Zobacz Kod](https://github.com/JedrzejMikolajczak/BlackJack) |
-| **🌶️ flask-project** | Aplikacja backendowa oparta na frameworku Flask | [Zobacz Kod](https://github.com/JedrzejMikolajczak/flask-project) |
-| **🌐 Projekt-Strona** | Klasyczna strona internetowa | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Projekt-Strona) |
-| **👤 Portfolio** | Moja strona wizytówka | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Portfolio) |
+| **🔐 Password Generator** | Narzędzie do generowania bezpiecznych haseł | [Zobacz Kod](https://github.com/JedrzejMikolajczak/password-generator) |
+| **🃏 BlackJack** | Implementacja klasycznej gry karcianej bez double i split | [Zobacz Kod](https://github.com/JedrzejMikolajczak/BlackJack) |
+| **🌶️ flask-project** | Aplikacja backendowa oparta na frameworku Flask, skupienie się na wyglądzie strony | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Flask_witryna_reklamujaca) |
+| **🌐 Galaxypedia** | Klasyczna strona internetowa | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Galaxypedia) |
+| **👤 Portfolio** | Moja strona wizytówka | [Zobacz Kod](https://github.com/JedrzejMikolajczak/portfolio-1) |
+| **🎮 Pong w C** | Klasyczna gra zrobiona w języku C z użyciem biblioteki Raylib | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Pong_in_c_raylib) |
 
 #### 🤖 AI Programming
-Projekty, w których wykorzystywałem modele AI do generowania kodu, testowania promptów i szybkiego prototypowania.
+Projekty, w których wykorzystywałem modele AI do ulepszania mojego kodu.
 
 | Projekt | Opis | Link do repozytorium |
 | :--- | :--- | :---: |
-| **🧙‍♂️ WizCraft** | Projekt eksperymentalny z użyciem AI | [Zobacz Kod](https://github.com/JedrzejMikolajczak/WizCraft) |
-| **🛒 sklep-strona** | Prototyp sklepu internetowego | [Zobacz Kod](https://github.com/JedrzejMikolajczak/sklep-strona) |
+| **🧙‍♂️ WizCraft** | Projekt eksperymentalny z użyciem AI | [Zobacz Kod](https://github.com/JedrzejMikolajczak/wiz-craft) |
+| **🛒 E-commerce website** | Prototyp sklepu internetowego | [Zobacz Kod](https://github.com/JedrzejMikolajczak/flask_e-commerve_shop) |
+| **🏬 Prosty sklep w Java** | Implementacja programowania obiektowego do stworzenia prostego sklepu | [Zobacz Kod](https://github.com/JedrzejMikolajczak/portfolio-1) |
 
 #### 👥 Projekty Grupowe (Teamwork)
 Projekty realizowane w zespole. Tutaj uczyłem się współpracy, podziału zadań oraz rozwiązywania konfliktów w systemie kontroli wersji (Git Flow).
@@ -87,6 +89,8 @@ Projekty realizowane w zespole. Tutaj uczyłem się współpracy, podziału zada
 | Projekt | Opis | Link do repozytorium |
 | :--- | :--- | :---: |
 | **👻 Pac-Man** | Zespołowa implementacja kultowej gry zręcznościowej | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Pac-Man) |
+
+W repozytoriach zamieszczone są również proste projekty na których uczyłem się podstaw danych języków programowania!
 
 ### 📫 Kontakt
 
