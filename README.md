@@ -48,6 +48,29 @@
 
 ---
 
+---
+
+### 📂 Projekty
+
+#### 👨‍💻 Moje Projekty (Kodowane ręcznie)
+Te aplikacje napisałem samodzielnie, aby zrozumieć działanie kodu i logikę programowania.
+
+| Projekt | Opis / Kategoria | Link do repozytorium |
+| :--- | :--- | :---: |
+| **🔐 Password Generator** | Narzędzie do generowania bezpiecznych haseł | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Password-Generator) |
+| **🃏 BlackJack** | Implementacja klasycznej gry karcianej | [Zobacz Kod](https://github.com/JedrzejMikolajczak/BlackJack) |
+| **🌶️ flask-project** | Aplikacja backendowa oparta na frameworku Flask | [Zobacz Kod](https://github.com/JedrzejMikolajczak/flask-project) |
+| **🌐 Projekt-Strona** | Klasyczna strona internetowa | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Projekt-Strona) |
+| **👤 Portfolio** | Moja strona wizytówka | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Portfolio) |
+
+#### 🤖 AI Programming (Wspomagane przez AI)
+Projekty, w których wykorzystywałem modele AI do generowania kodu, testowania promptów i szybkiego prototypowania.
+
+| Projekt | Opis | Link do repozytorium |
+| :--- | :--- | :---: |
+| **🧙‍♂️ WizCraft** | Projekt eksperymentalny z użyciem AI | [Zobacz Kod](https://github.com/JedrzejMikolajczak/WizCraft) |
+| **🛒 sklep-strona** | Prototyp sklepu internetowego | [Zobacz Kod](https://github.com/JedrzejMikolajczak/sklep-strona) |
+
 ### 📫 Kontakt
 
 <a href="https://linkedin.com/in/TWOJ-PROFIL">
