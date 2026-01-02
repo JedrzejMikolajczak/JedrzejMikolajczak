@@ -2,13 +2,13 @@
 
 # Cześć, jestem Jędrzej! 👋
 
-### Student Informatyki | Pasjonat Web Developmentu
+### Student Informatyki
 
 ---
 
 **O mnie:**
 🎓 Studiuję Informatykę i szukam stażu w branży IT.
-🌱 Obecnie rozwijam się w ekosystemie Python Flask oraz React.
+🌱 Obecnie rozwijam się w ekosystemie Python Flask oraz JS/React.
 
 ---
 
@@ -18,7 +18,7 @@
 - 📚 **Kierunek:** Informatyka (Studia Inżynierskie)
 - 📍 **Lokalizacja:** Poznań, Polska
 - 💼 **Szukam:** Stażu / Praktyk
-- 🗣️ **Języki:** Polski (Ojczysty), Angielski (B2), Niemiecki (A2)
+- 🗣️ **Języki:** Polski, Angielski (B2), Niemiecki (A2)
 
 ---
 
@@ -54,7 +54,7 @@
 
 > ⚛️ **Frontend:** Wchodzę w zaawansowane aspekty JavaScript i budowę aplikacji w React.
 >
-> 🎓 **Studia:** Poznaje podstawy programowania systemowego i współbieżnego w języku C (środowisko Linux).
+> 🎓 **Studia:** Poznaje podstawy programowania systemowego i współbieżnego w języku C w środowisku Linux.
 
 ---
 
@@ -84,7 +84,7 @@ Projekty, w których wykorzystywałem modele AI do ulepszania mojego kodu.
 | **🛒 E-commerce website** | Prototyp sklepu internetowego | [Zobacz Kod](https://github.com/JedrzejMikolajczak/flask_e-commerve_shop) |
 | **🏬 Prosty sklep w Java** | Implementacja programowania obiektowego do stworzenia prostego sklepu | [Zobacz Kod](https://github.com/JedrzejMikolajczak/portfolio-1) |
 
-#### 👥 Projekty Grupowe (Teamwork)
+#### 👥 Projekty Grupowe
 Projekty realizowane w zespole. Tutaj uczyłem się współpracy, podziału zadań oraz rozwiązywania konfliktów w systemie kontroli wersji (Git Flow).
 
 | Projekt | Opis | Link do repozytorium |
