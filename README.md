@@ -73,7 +73,7 @@ Te aplikacje napisałem samodzielnie, aby zrozumieć działanie kodu i logikę p
 | **🌐 Galaxypedia** | Klasyczna strona internetowa | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Galaxypedia) |
 | **👤 Portfolio** | Moja strona wizytówka | [Zobacz Kod](https://github.com/JedrzejMikolajczak/portfolio-1) |
 | **🎮 Pong w C** | Klasyczna gra zrobiona w języku C z użyciem biblioteki Raylib | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Pong_in_c_raylib) |
-| **📖 Biblioteka ** | Strona, dzięki której zrozumiałem lepiej jak manipulować DOM | [Zobacz Kod](https://github.com/JedrzejMikolajczak/BookLibrary) |
+| ** 📖 Biblioteka ** | Strona, dzięki której zrozumiałem lepiej jak manipulować DOM | [Zobacz Kod](https://github.com/JedrzejMikolajczak/BookLibrary) |
 
 #### 🤖 AI Programming
 Projekty, w których wykorzystywałem modele AI do ulepszania mojego kodu.
