@@ -52,12 +52,6 @@
   <img src="https://img.shields.io/badge/Linux_System_Prog.-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-> ⚛️ **Frontend:** Wchodzę w zaawansowane aspekty JavaScript i budowę aplikacji w React.
->
-> 🎓 **Studia:** Poznaje podstawy programowania systemowego i współbieżnego w języku C w środowisku Linux.
-
----
-
 ---
 
 ### 📂 Projekty
