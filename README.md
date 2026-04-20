@@ -68,6 +68,8 @@ Te aplikacje napisałem samodzielnie, aby zrozumieć działanie kodu i logikę p
 | **👤 Portfolio** | Moja strona wizytówka | [Zobacz Kod](https://github.com/JedrzejMikolajczak/portfolio-1) |
 | **🎮 Pong w C** | Klasyczna gra zrobiona w języku C z użyciem biblioteki Raylib | [Zobacz Kod](https://github.com/JedrzejMikolajczak/Pong_in_c_raylib) |
 | **📖 Biblioteka** | Strona, dzięki której zrozumiałem lepiej jak manipulować DOM | [Zobacz Kod](https://github.com/JedrzejMikolajczak/BookLibrary) |
+| **🛒 E-commerce website** | Prototyp sklepu internetowego | [Zobacz Kod](https://github.com/JedrzejMikolajczak/flask_e-commerve_shop) |
+
 
 #### 🤖 AI Programming
 Projekty, w których wykorzystywałem modele AI do ulepszania mojego kodu.
@@ -75,7 +77,6 @@ Projekty, w których wykorzystywałem modele AI do ulepszania mojego kodu.
 | Projekt | Opis | Link do repozytorium |
 | :--- | :--- | :---: |
 | **🧙‍♂️ WizCraft** | Projekt eksperymentalny z użyciem AI | [Zobacz Kod](https://github.com/JedrzejMikolajczak/wiz-craft) |
-| **🛒 E-commerce website** | Prototyp sklepu internetowego | [Zobacz Kod](https://github.com/JedrzejMikolajczak/flask_e-commerve_shop) |
 | **🏬 Prosty sklep w Java** | Implementacja programowania obiektowego do stworzenia prostego sklepu | [Zobacz Kod](https://github.com/JedrzejMikolajczak/portfolio-1) |
 
 #### 👥 Projekty Grupowe
