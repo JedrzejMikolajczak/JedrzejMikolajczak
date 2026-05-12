@@ -12,9 +12,8 @@ I want to be a Web Developer!
 * 🌱 "Striving to be better every day"
 
 ### 🛠️ Tech Stack
-| Frontend | Backend & Tools | Others |
 | :--- | :--- | :--- |
-| HTML5 / CSS3 / JS | Node.js | C / C++ |
+| HTML5 / CSS3 / JS | C | python |
 | Angular | Java Spring | Mobile Dev |
 
 ### 📂 Featured Projects
