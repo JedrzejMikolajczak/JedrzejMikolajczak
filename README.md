@@ -26,5 +26,5 @@ I want to be a Web Developer!
 ---
 
 ### 📫 How to reach me:
-* 📧 Email: [Twój mail tutaj]
-* 💼 LinkedIn: [Link do Twojego profilu]
+* 📧 Email: jedrzej.mikolajczak@gmail.com
+
