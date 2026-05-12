@@ -14,12 +14,13 @@ I want to be a Web Developer!
 ### 🛠️ Tech Stack
 | Frontend | Backend & Tools | Others |
 | :--- | :--- | :--- |
-| HTML5 / CSS3 / JS | Node.js / Express | C / C++ (Raylib) |
-| React / Tailwind | Git / GitHub | Mobile Dev (Dart/Flutter?) |
+| HTML5 / CSS3 / JS | Node.js | C / C++ |
+| Angular | Java Spring | Mobile Dev |
 
 ### 📂 Featured Projects
 * **[LED Audytor Mobile]** - A mobile solution for lighting audits (Work in progress).
-* **[Pong_in_C_raylib]** - A classic game remake focusing on memory management and game loops in C.
+* **[Pong_in_C_raylib]** - A classic game remake in C.
+* **[Flask e-commerce shop]** - A fully functional shop.
 
 
 ---
