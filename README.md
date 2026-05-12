@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Jędrzej! 👋
 
-<!--
-**JedrzejMikolajczak/JedrzejMikolajczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 CS Student @ Poznań University of Technology
+I want to be a Web Developer!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+* 🛠️ Currently mastering: **Angular / Spring**
+* 🎓 Studying: Computer Science at **Politechnika Poznańska**
+* 🏎️ Interest: Web development
+* 🌱 "Striving to be better every day"
+
+### 🛠️ Tech Stack
+| Frontend | Backend & Tools | Others |
+| :--- | :--- | :--- |
+| HTML5 / CSS3 / JS | Node.js / Express | C / C++ (Raylib) |
+| React / Tailwind | Git / GitHub | Mobile Dev (Dart/Flutter?) |
+
+### 📂 Featured Projects
+* **[LED Audytor Mobile]** - A mobile solution for lighting audits (Work in progress).
+* **[Pong_in_C_raylib]** - A classic game remake focusing on memory management and game loops in C.
+
+
+---
+
+### 📫 How to reach me:
+* 📧 Email: [Twój mail tutaj]
+* 💼 LinkedIn: [Link do Twojego profilu]
